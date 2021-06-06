@@ -1,0 +1,3 @@
+1. Reducer function(also for useReducer Hook) must be pure,side-effect free and synchronous 
+2. But we can do that using the useEffect or create action creators
+3.
